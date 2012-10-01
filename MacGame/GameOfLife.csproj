@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
+    <None Include="readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\alive.png">
